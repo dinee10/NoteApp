@@ -1,2 +1,11 @@
-# NoteApp
- A simple note-taking app with full CRUD functionality. Easily add, view, edit, and delete notes to manage ideas and reminders. Built with a streamlined UI and local storage for quick access. Perfect for jotting down to-do lists and personal notes. Contributions are welcome to enhance features and usability!
+Simple Note App 📒
+A straightforward and user-friendly note-taking application with full CRUD (Create, Read, Update, Delete) functionality. This app allows users to effortlessly add, view, edit, and delete notes, making it easy to manage ideas, reminders, and to-do lists. The app stores data locally, ensuring quick access and offline capability.
+
+Features
+Add Notes 📝: Create new notes with ease.
+View Notes 📋: Access all saved notes in a streamlined interface.
+Edit Notes ✏️: Update existing notes as needed.
+Delete Notes 🗑️: Remove notes that are no longer necessary.
+Tech Stack
+Frontend: Kotlin
+Data Storage: SQLite Database
